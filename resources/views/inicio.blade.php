@@ -114,7 +114,7 @@
 
     <!-- Hero Section -->
     <div class="hero">
-        <h1 class="display-4">Protege tu Mundo Digital</h1>
+        <h1 class="display-4">Protege tu Mundo Digital con Frozono</h1>
         <p class="lead">Descubre cómo mantenerte seguro en línea con las mejores prácticas, herramientas y noticias.</p>
         <a href="/buenas-practicas" class="btn btn-primary btn-lg">Comienza Ahora</a>
     </div>
